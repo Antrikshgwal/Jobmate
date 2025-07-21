@@ -1,7 +1,13 @@
-# Full Stack AI Career Coach with Next JS, Neon DB, Tailwind, Prisma, Inngest, Shadcn UI Tutorial 🔥🔥
-## https://youtu.be/UbXpRv5ApKA
+# Jobmate
+Jobmate is a full-stack job board application built with Next.js, Prisma, and Clerk for authentication. It allows users to prepare for interviews, apply for jobs, and manage their profiles. It also includes AI-powered features for job recommendations and resume building, making it a comprehensive platform for job seekers.
+## Features
+- User authentication with Clerk
+- Job application system
+- Ai-powered job recommendations and resume building
+- Upskill yourself with AI-powered learning resources
 
-![sensai](https://github.com/user-attachments/assets/eee79242-4056-4d19-b655-2873788979e1)
+
+![Jobmate](https://github.com/Antrikshgwal/Jobmate.git)
 
 ### Make sure to create a `.env` file with following variables -
 
